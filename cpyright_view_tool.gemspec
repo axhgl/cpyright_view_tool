@@ -6,8 +6,8 @@ require "cpyright_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "cpyright_view_tool"
   spec.version       = CpyrightViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Argjend Xhigoli"]
+  spec.email         = ["argjend@wow.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use}
   spec.description   = %q{Provides generated HTML data for Rails applications}
